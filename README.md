@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif?cid=ecf05e47upb57t7y5yz0p37a41e4t3gu7xlmjjzlnv8d6qvo&rid=giphy.gif&ct=s" width="100"/>
 </div>
+
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -17,4 +19,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zarina-2022&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+
+
 
