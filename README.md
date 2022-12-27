@@ -26,7 +26,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/d7qsgL2F2cUTNyhObs/giphy.gif?cid=ecf05e470py1vlc3ygmcpbge8z9gq8f3jxrsdbm0u5syzv2o&rid=giphy.gif&ct=g"/>
+  <img src="https://media0.giphy.com/media/d7qsgL2F2cUTNyhObs/giphy.gif?cid=ecf05e470py1vlc3ygmcpbge8z9gq8f3jxrsdbm0u5syzv2o&rid=giphy.gif&ct=g" width="300px"/>
 </div>
 
 ---
@@ -34,3 +34,19 @@
 ### :woman_technologist: About Me :
 
 I am Front-end Reach Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
+
+- :telescope: As a Front-end Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT to create dynamic web pages. I also use BOOTSTRAP and REACT.
+
+- :seedling: I'm in research to dig deeper into Javascript and React.
+
+- :zap: In my free time, I research new codes and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zarina-sekerdag-178232235/)
+
+
+
+
+
+
+
+
