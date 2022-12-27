@@ -20,7 +20,17 @@
   <img src="https://komarev.com/ghpvc/?username=Zarina-2022&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align="center">
+  Hello everyone from the digital world
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/d7qsgL2F2cUTNyhObs/giphy.gif?cid=ecf05e470py1vlc3ygmcpbge8z9gq8f3jxrsdbm0u5syzv2o&rid=giphy.gif&ct=g"/>
+</div>
 
+---
 
+### :woman_technologist: About Me :
 
+I am Front-end Reach Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
