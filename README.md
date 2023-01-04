@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am Front-end Reach Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
+I am Front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
 
 - :telescope: As a Front-end Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT to create dynamic web pages. I also use BOOTSTRAP and REACT.
 
