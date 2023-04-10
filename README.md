@@ -31,6 +31,7 @@ I am Front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: In my free time, I research new codes and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zarina-sekerdag-178232235/)
+- E-mail: zarinasekerdag@gmail.com
 
 ---
 
