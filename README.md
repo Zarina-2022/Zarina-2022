@@ -24,7 +24,7 @@
 
 I am Front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
 
-- :telescope: As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP to create dynamic web pages. At the moment I'm learning TypeScript.
+- :telescope: As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, CONTEXT API to create dynamic web pages. At the moment I'm learning TypeScript.
 
 - :seedling: I'm in research to dig deeper into Javascript and React.
 
