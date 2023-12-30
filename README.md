@@ -1,11 +1,15 @@
 ### :woman_technologist: About Me :
-
-I am Frontend React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nederlands.
-
-- :telescope: As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, CONTEXT API, TYPE SCRIPT to create dynamic web pages.
--  At the moment I'm learning React Native and Backend.
-
-- :seedling: I'm in research to dig deeper into the Code World.
+<ul>
+  <li> 👋 Hi, I am Frontend React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"           
+      width="30"> from Nederlands. Even though I have been coding for over a year, my passion for this field started much 
+      earlier.</li>
+  <li>👀 I always aim for the most functional, applicable, and readable code.</li>
+  <li>🌱 With the experience I have gained and the teamwork spirit I have developed, I am moving forward as a passionate           learner and developer, with more confident steps than ever before.</li>
+  <li>💞️ I’m currently focusing on React Native and Backend: Mongo db, Next JS, Node JS, Express JS.</li>
+   <li>:seedling: I'm in research to dig deeper into the Code World.</li>
+  <li>:telescope: As a Frontend Developer, I continue to develop myself by using HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, 
+       BOOTSTRAP, REACT-BOOTSTRAP, REDUX, CONTEXT API, TYPE SCRIPT to create dynamic web pages.</li>
+</ul>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zarina-sekerdag-178232235/)
 - E-mail: zarinasekerdag@gmail.com
