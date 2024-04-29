@@ -1,7 +1,7 @@
 ### :woman_technologist: About Me :
 <ul>
-  <li> 👋 Hi, I am Frontend React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"           
-      width="30"> from Nederlands. Even though I have been coding for over a year, my passion for this field started much 
+  <li> 👋 Hi, I am Frontend React, Backend and Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"           
+      width="30"> from Netherlands. Even though I have been coding for over a year, my passion for this field started much 
       earlier.</li>
   <li>👀 I always aim for the most functional, applicable, and readable code.</li>
   <li>🌱 With the experience I have gained and the teamwork spirit I have developed, I am moving forward as a passionate           learner and developer, with more confident steps than ever before.</li>
